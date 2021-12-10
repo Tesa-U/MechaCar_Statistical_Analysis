@@ -4,10 +4,10 @@
  ![Linear Regression](images/linear.png)
  
 ## Summary Statistics 
-###Total Summary:
+### Total Summary:
  ![plot](images/totalSummary.png)
  
-###Lot Summary:  
+### Lot Summary:  
  ![plot](images/lotSummary.png)
  
 ## t-tests on Suspension Coils
@@ -19,3 +19,6 @@
  ![Summary](images/tTest2.png)
  ### Lot1 t-test
  ![Summary](images/tTest3.png)
+ 
+## Study Design 
+
