@@ -20,5 +20,6 @@
  ### Lot1 t-test
  ![Summary](images/tTest3.png)
  
-## Study Design 
+## Study Design: MechaCar vs Competition
+
 
