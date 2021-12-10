@@ -21,5 +21,6 @@
  ![Summary](images/tTest3.png)
  
 ## Study Design: MechaCar vs Competition
+I would like to test city or highway fuel efficiency. My null hypothesis would be 'driving a car in the city or on the highway has no difference in efficiency metrics. My alternative hypothesis 'driving a car in the city or on the highway will affect in efficiency metrics.
 
 
