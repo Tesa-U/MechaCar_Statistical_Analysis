@@ -3,4 +3,5 @@
 ## Linear Regression 
  ![Linear Regression](images/linear.png)
  
-  ![Summary](images/summary.png)
+## Summary Statistics 
+ ![Summary](images/summary.png)
